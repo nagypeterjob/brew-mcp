@@ -12,8 +12,8 @@ import (
 	mcp_core "github.com/mark3labs/mcp-go/mcp"
 
 	zlogger "github.com/bitrise-io/brew-mcp/internal/logger"
+	"github.com/bitrise-io/brew-mcp/pkg/brew"
 	"github.com/bitrise-io/brew-mcp/pkg/mcp"
-	"github.com/bitrise-io/brew-mcp/pkg/mcp/brew"
 	"go.uber.org/zap"
 )
 
