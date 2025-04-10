@@ -4,4 +4,4 @@ TAG:=$(if $(GIT_TAG),$(GIT_TAG),build-$(GIT_COMMIT))
 
 .PHONY: build
 build:
-	go build -o server -ldflags="-B gobuildid -X 'main.BuildVersion=$(TAG)'" ./cmd
+	go build -o brew-mcp-server -ldflags="-B gobuildid -X 'main.BuildVersion=$(TAG)'" ./cmd
