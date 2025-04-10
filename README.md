@@ -2,15 +2,15 @@
 
 The project enables you to have a "natural language" conversation with brew. The most important commands are implemented:
 
-[x] Install
-[x] Uninstall
-[x] Get specific package
-[x] List installed packages and their versions
-[x] Update
-[x] Upgrade
-[x] Info
-[x] Search
-[x] Print config
+[x] Install  
+[x] Uninstall  
+[x] Get specific package  
+[x] List installed packages and their versions  
+[x] Update  
+[x] Upgrade  
+[x] Info  
+[x] Search  
+[x] Print config  
 
 ## install
 
